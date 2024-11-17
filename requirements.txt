@@ -1,5 +1,7 @@
 streamlit
 pandas
 plotly
+selenium
+webdriver-manager
 beautifulsoup4
 requests
